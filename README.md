@@ -20,3 +20,5 @@ In my spare time I love:
 ## Feedback & Contact
 If you have any feedback or would like to initiate contact, feel free!
 `korneldabrowski@gmail.com`
+
+![image](https://www.codewars.com/users/korneldabrowski/badges/large)
