@@ -4,7 +4,7 @@
 - Kornel - 22 year old - programmer from Poland;
 - Started programming back in High School, in a small  Scottish town;
 - Edinburgh Napier University graduate (BEng: Software Engineering);
-- Begining journey from Java, through C# to Full Stack development 
+- Started my coding journey from Java, through C# to Full Stack web development 
 
 ## Person.getInterests();
 In my spare time I love:
