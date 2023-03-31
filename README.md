@@ -14,7 +14,7 @@ In my spare time I love:
 - play video games 🕹️
 
 ## Person.getLocation();
-- return `"Sweden" : "Stockholm"`
+- return `"Poland" : "Elblag - willing to relocate"`
 - return `"United Kingdom" : "Edinburgh" (outdated)`
 
 ## Feedback & Contact
