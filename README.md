@@ -1,10 +1,10 @@
 # Class Person {
 
 ## 👋 Code Name: Kornel Dabrowski
-- Kornel - 22 year old - programmer from Poland;
+- Kornel - 23 year old - programmer from Poland;
 - Started programming back in High School, in a small  Scottish town;
 - Edinburgh Napier University graduate (BEng: Software Engineering);
-- Started my coding journey from Java, through C# to Full Stack web development 
+- FullStack Java Developer @Santander.
 
 ## Person.getInterests();
 In my spare time I love:
@@ -14,8 +14,8 @@ In my spare time I love:
 - play video games 🕹️
 
 ## Person.getLocation();
-- return `"Poland" : "Elblag - willing to relocate"`
-- return `"United Kingdom" : "Edinburgh" (outdated)`
+- return `"Poland - Warsaw"`
+- return `"United Kingdom - Edinburgh" (outdated)`
 
 ## Feedback & Contact
 If you have any feedback or would like to initiate contact, feel free!
